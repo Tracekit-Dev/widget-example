@@ -378,7 +378,7 @@ See `index.php` in this directory for a complete working example with:
 
 ## 🔗 Resources
 
-- [TraceKit Documentation](https://docs.tracekit.dev)
+- [TraceKit Documentation](https://app.tracekit.dev/docs)
 - [Widget Settings](https://app.tracekit.dev/settings/widgets)
 - [Support](mailto:support@tracekit.dev)
 
