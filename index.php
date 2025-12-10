@@ -119,8 +119,8 @@
         <p>Testing embeddable widget from a PHP application</p>
 
         <!-- Load TraceKit SDK once -->
-        <script src="http://localhost:8081/static/js/tracekit-widgets.js"></script>
-        <script src="http://localhost:8081/static/js/tracekit-widgets-ui.js"></script>
+        <script src="http://api.tracekit.dev/static/js/tracekit-widgets.js"></script>
+        <script src="http://api.tracekit.dev/static/js/tracekit-widgets-ui.js"></script>
 
         <div class="widget-wrapper">
             <h2 style="margin-top: 0; font-size: 16px; color: #6b7280;">Widget 1: Service Badge (Custom Styled + Dark Theme)</h2>
@@ -182,7 +182,7 @@
             <h3>📋 Configuration</h3>
             <p><strong>API Key:</strong> Replace <code>your-widget-api-key-here</code> with your actual widget API key from <a href="https://app.tracekit.dev" target="_blank">TraceKit Dashboard</a></p>
             <p><strong>Service:</strong> <code>api-gateway</code> (change to your service name)</p>
-            <p><strong>TraceKit URL:</strong> <code>http://localhost:8081</code></p>
+            <p><strong>TraceKit URL:</strong> <code>http://api.tracekit.dev</code></p>
             <p><strong>Test App Port:</strong> <code>8090</code></p>
         </div>
 
